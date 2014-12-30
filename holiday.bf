@@ -1,4 +1,12 @@
-#!/usr/bin/env bf 
+#!/usr/bin/env bf
+
+[-] (0) 
+[ program name: holiday.bf                                                ]
+[ Dec 2014                                                                ]
+[ by  <jtangele+brainfuck@gmail.com>                                      ]
+[                                                                         ]
+[ prints important message ( youtu.be/zdA__2tKoIU#t=35s )                 ]
+[                                                                         ]
 
 +++++ +++++               (0) 
 [
